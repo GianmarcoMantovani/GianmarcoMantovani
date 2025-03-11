@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GianmarcoMantovani
-- 🌱 I have a degree in programming from the National University of Lomas de Zamora (Argentina)
-- 💻 I'm a SSR FullStack Developer (.NET + React). 
+- 🌱 I have an Associate's Degree in Computer Programming from the National University of Lomas de Zamora (Argentina)
+- 💻 I'm a FullStack Developer (.NET + React). 
 - 📫 How to reach me: mantovanigianm@gmail.com or at https://www.linkedin.com/in/gianmarcomantovani
