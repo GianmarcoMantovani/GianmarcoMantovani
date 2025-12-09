@@ -2,3 +2,4 @@
 - 🌱 I have an Associate's Degree in Computer Programming from the National University of Lomas de Zamora (Argentina)
 - 💻 I'm a FullStack Developer (.NET + React). 
 - 📫 How to reach me: mantovanigianm@gmail.com or at https://www.linkedin.com/in/gianmarcomantovani
+- Personal project - Starting in 2026: https://mantowebstudio.vercel.app
